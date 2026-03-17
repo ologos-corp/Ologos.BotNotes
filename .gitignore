@@ -1,0 +1,13 @@
+# Worker SQLite shells (too large for git, binary)
+shells/*.db
+shells/*.db-wal
+shells/*.db-shm
+
+# Keep the shells directory
+!shells/.gitkeep
+
+# Sync state (local only)
+sync/last_sync.json
+
+# OS artifacts
+.DS_Store
