@@ -1,0 +1,1 @@
+1|2026-03-17 11:15:25.918122-05|architecture|Three-tier memory design|Director memories in PostgreSQL for structured queries, worker shells in SQLite for portability, git-backed BotNotes for durability|high|nous,architecture

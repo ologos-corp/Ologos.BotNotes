@@ -1,0 +1,3 @@
+1|2026-03-17 11:15:25.91682-05|infrastructure|PostgreSQL Database|Director memories stored in ologos_nous database on localhost, user ologos|system setup|database,nous
+2|2026-03-17 11:15:25.91682-05|infrastructure|Worker Shells|SQLite databases in ~/nous-shells/ for telegram_bot.db and chatbot.db|system setup|sqlite,nous
+3|2026-03-17 11:15:25.91682-05|accounts|Google Account|ologos001@gmail.com with OAuth access to Gmail, Drive, Calendar, GCP|CLAUDE.md|google,oauth
